@@ -4,6 +4,19 @@
   
     
     <entry>
+      <title></title>
+      <link href="/2020/08/28/test/"/>
+      <url>/2020/08/28/test/</url>
+      
+        <content type="html"><![CDATA[<p>#测试</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="built_in">cd</span> tell</span><br></pre></td></tr></table></figure>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Hello World</title>
       <link href="/2020/08/28/hello-world/"/>
       <url>/2020/08/28/hello-world/</url>
