@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://yoursite.com/2020/09/10/descripation-test/</loc>
+    
+    <lastmod>2020-09-10</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/2020/09/10/layout-title/</loc>
+    
+    <lastmod>2020-09-10</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/categories/index.html</loc>
+    
+    <lastmod>2020-09-01</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/2020/09/01/%E6%96%B0%E5%BB%BA%E6%96%87%E4%BB%B6/</loc>
+    
+    <lastmod>2020-09-01</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/%E6%96%B0%E5%BB%BA%E9%A1%B5%E9%9D%A2/index.html</loc>
+    
+    <lastmod>2020-09-01</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/2020/09/01/%E6%90%AD%E5%BB%BAgitlab%E6%9C%8D%E5%8A%A1%E5%99%A8/</loc>
+    
+    <lastmod>2020-09-01</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/2020/08/28/hello-world/</loc>
+    
+    <lastmod>2020-08-28</lastmod>
+    
+  </url>
+  
+
+  <url>
+    <loc>http://yoursite.com/</loc>
+    <lastmod>2020-09-10</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  
+
+  
+  <url>
+    <loc>http://yoursite.com/categories/%E6%8A%80%E6%9C%AF/</loc>
+    <lastmod>2020-09-10</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+</urlset>
