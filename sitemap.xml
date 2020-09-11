@@ -2,6 +2,48 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://yoursite.com/2020/09/11/docs/getting-started/installation/</loc>
+    
+    <lastmod>2020-09-11</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/2020/09/11/docs/getting-started/index/</loc>
+    
+    <lastmod>2020-09-11</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/2020/09/11/installation-1/</loc>
+    
+    <lastmod>2020-09-11</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/2020/09/11/installation/</loc>
+    
+    <lastmod>2020-09-11</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/docs/index.html</loc>
+    
+    <lastmod>2020-09-11</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/categories/index-3.html</loc>
+    
+    <lastmod>2020-09-11</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://yoursite.com/about/index.html</loc>
     
     <lastmod>2020-09-10</lastmod>
@@ -51,20 +93,6 @@
   </url>
   
   <url>
-    <loc>http://yoursite.com/2020/09/10/layout-title/</loc>
-    
-    <lastmod>2020-09-10</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/2020/09/01/%E6%96%B0%E5%BB%BA%E6%96%87%E4%BB%B6/</loc>
-    
-    <lastmod>2020-09-01</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://yoursite.com/%E6%96%B0%E5%BB%BA%E9%A1%B5%E9%9D%A2/index.html</loc>
     
     <lastmod>2020-09-01</lastmod>
@@ -88,7 +116,7 @@
 
   <url>
     <loc>http://yoursite.com/</loc>
-    <lastmod>2020-09-10</lastmod>
+    <lastmod>2020-09-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -98,7 +126,7 @@
   
   <url>
     <loc>http://yoursite.com/categories/%E6%8A%80%E6%9C%AF/</loc>
-    <lastmod>2020-09-10</lastmod>
+    <lastmod>2020-09-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
