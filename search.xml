@@ -2,7 +2,7 @@
 <search>
   <entry>
     <title>descripation_test</title>
-    <url>/2020/09/10/descripation-test/</url>
+    <url>/posts/35761/</url>
     <content><![CDATA[<h1 id="技术博客">技术博客</h1>
 <h3 id="这是一篇技术博客请大家多多指正">这是一篇技术博客，请大家多多指正</h3>
 ]]></content>
@@ -12,7 +12,7 @@
   </entry>
   <entry>
     <title>Hello World</title>
-    <url>/2020/08/28/hello-world/</url>
+    <url>/posts/16107/</url>
     <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
 <h2 id="quick-begin">Quick Begin</h2>
 <h3 id="create-a-new-post">Create a new post</h3>
@@ -31,19 +31,19 @@
   </entry>
   <entry>
     <title>installation</title>
-    <url>/2020/09/11/installation-1/</url>
+    <url>/posts/undefined/</url>
     <content><![CDATA[
 ]]></content>
   </entry>
   <entry>
     <title>installation</title>
-    <url>/2020/09/11/installation/</url>
+    <url>/posts/58699/</url>
     <content><![CDATA[
 ]]></content>
   </entry>
   <entry>
     <title>在build.gradle中添加系统签名任务</title>
-    <url>/2020/09/17/%E5%9C%A8build-gradle%E4%B8%AD%E6%B7%BB%E5%8A%A0%E7%B3%BB%E7%BB%9F%E7%AD%BE%E5%90%8D%E4%BB%BB%E5%8A%A1/</url>
+    <url>/posts/38678/</url>
     <content><![CDATA[<h2 id="在build.gradle中进行系统签名">在build.gradle中进行系统签名</h2>
 <h3 id="案例要给apk进行系统签名的时候往往是在命令行中执行">案例：要给apk进行系统签名的时候，往往是在命令行中执行</h3>
 <figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">&#x2F;&#x2F;origin -- 要签名的apk</span><br><span class="line">&#x2F;&#x2F;output -- 签名后生成的apk</span><br><span class="line">java -jar .&#x2F;signapk.jar   .&#x2F;platform.x509.pem .&#x2F;platform.pk8  $&#123;origin&#125; $&#123;output&#125;</span><br></pre></td></tr></table></figure>
@@ -56,7 +56,7 @@
   </entry>
   <entry>
     <title>搭建gitlab服务器</title>
-    <url>/2020/09/01/%E6%90%AD%E5%BB%BAgitlab%E6%9C%8D%E5%8A%A1%E5%99%A8/</url>
+    <url>/posts/47168/</url>
     <content><![CDATA[<p><strong>搭建Git服务器：使用Docker快速搭建Gitlab</strong></p>
 <p>在前面的章节中，我们学习了大量的 Git 命令使用，考虑到降低 Git 学习成本并没有教大家如何去搭建 Git 服务器，因为搭建 Git 服务的场景遇到的机会并不多。</p>
 <p>但如果团队刚成立，通常需要搭建 Git 服务器，在这一节中我们学习如何使用 Gitlab 去搭建 Git 服务器，为了让大家在搭建的时候减少障碍，这里我们使用 Docker 的方式来搭建，因此首先需要安装 Docker。</p>
@@ -104,19 +104,19 @@
   </entry>
   <entry>
     <title>page</title>
-    <url>/2020/09/11/docs/getting-started/installation/</url>
-    <content><![CDATA[<p>hahah</p>
-]]></content>
-  </entry>
-  <entry>
-    <title>page</title>
-    <url>/2020/09/11/docs/getting-started/index/</url>
+    <url>/posts/1441/</url>
     <content><![CDATA[
 ]]></content>
   </entry>
   <entry>
+    <title>page</title>
+    <url>/posts/1442/</url>
+    <content><![CDATA[<p>hahah</p>
+]]></content>
+  </entry>
+  <entry>
     <title>常见java面试题(含答案)</title>
-    <url>/2020/09/18/%E5%B8%B8%E8%A7%81java%E9%9D%A2%E8%AF%95%E9%A2%98-%E5%90%AB%E7%AD%94%E6%A1%88/</url>
+    <url>/posts/48818/</url>
     <content><![CDATA[<p><strong>1、面向对象的特征有哪些方面？</strong></p>
 <p>答：面向对象的特征主要有以下几个方面： - 抽象：抽象是将一类对象的共同特征总结出来构造类的过程，包括数据抽象和行为抽象两方面。抽象只关注对象有哪些属性和行为，并不关注这些行为的细节是什么。 - 继承：继承是从已有类得到继承信息创建新类的过程。提供继承信息的类被称为父类（超类、基类）；得到继承信息的类被称为子类（派生类）。继承让变化中的软件系统有了一定的延续性，同时继承也是封装程序中可变因素的重要手段（如果不能理解请阅读阎宏博士的《Java与模式》或《设计模式精解》中关于桥梁模式的部分）。 - 封装：通常认为封装是把数据和操作数据的方法绑定起来，对数据的访问只能通过已定义的接口。面向对象的本质就是将现实世界描绘成一系列完全自治、封闭的对象。我们在类中编写的方法就是对实现细节的一种封装；我们编写一个类就是对数据和数据操作的封装。可以说，封装就是隐藏一切可隐藏的东西，只向外界提供最简单的编程接口（可以想想普通洗衣机和全自动洗衣机的差别，明显全自动洗衣机封装更好因此操作起来更简单；我们现在使用的智能手机也是封装得足够好的，因为几个按键就搞定了所有的事情）。 - 多态性：多态性是指允许不同子类型的对象对同一消息作出不同的响应。简单的说就是用同样的对象引用调用同样的方法但是做了不同的事情。多态性分为编译时的多态性和运行时的多态性。如果将对象的方法视为对象向外界提供的服务，那么运行时的多态性可以解释为：当A系统访问B系统提供的服务时，B系统有多种提供服务的方式，但一切对A系统来说都是透明的（就像电动剃须刀是A系统，它的供电系统是B系统，B系统可以使用电池供电或者用交流电，甚至还有可能是太阳能，A系统只会通过B类对象调用供电的方法，但并不知道供电系统的底层实现是什么，究竟通过何种方式获得了动力）。方法重载（overload）实现的是编译时的多态性（也称为前绑定），而方法重写（override）实现的是运行时的多态性（也称为后绑定）。运行时的多态是面向对象最精髓的东西，要实现多态需要做两件事：1). 方法重写（子类继承父类并重写父类中已有的或抽象的方法）；2). 对象造型（用父类型引用引用子类型对象，这样同样的引用调用同样的方法就会根据子类对象的不同而表现出不同的行为）。</p>
 <p><strong>2、访问修饰符public,private,protected,以及不写（默认）时的区别？</strong></p>
