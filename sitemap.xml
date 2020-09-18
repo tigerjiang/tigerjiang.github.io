@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://yoursite.com/2020/09/18/%E5%B8%B8%E8%A7%81java%E9%9D%A2%E8%AF%95%E9%A2%98-%E5%90%AB%E7%AD%94%E6%A1%88/</loc>
+    
+    <lastmod>2020-09-18</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://yoursite.com/2020/09/17/%E5%9C%A8build-gradle%E4%B8%AD%E6%B7%BB%E5%8A%A0%E7%B3%BB%E7%BB%9F%E7%AD%BE%E5%90%8D%E4%BB%BB%E5%8A%A1/</loc>
     
     <lastmod>2020-09-17</lastmod>
@@ -123,7 +130,7 @@
 
   <url>
     <loc>http://yoursite.com/</loc>
-    <lastmod>2020-09-17</lastmod>
+    <lastmod>2020-09-18</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -133,7 +140,7 @@
   
   <url>
     <loc>http://yoursite.com/categories/%E6%8A%80%E6%9C%AF/</loc>
-    <lastmod>2020-09-17</lastmod>
+    <lastmod>2020-09-18</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
