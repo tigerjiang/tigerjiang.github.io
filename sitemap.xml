@@ -2,49 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://www.sugon.online/posts/1441/</loc>
+    <loc>http://www.sugon.online/posts/15484/</loc>
     
-    <lastmod>2020-09-18</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://www.sugon.online/posts/35761/</loc>
-    
-    <lastmod>2020-09-18</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://www.sugon.online/posts/58699/</loc>
-    
-    <lastmod>2020-09-18</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://www.sugon.online/posts/38678/</loc>
-    
-    <lastmod>2020-09-18</lastmod>
+    <lastmod>2020-10-01</lastmod>
     
   </url>
   
   <url>
     <loc>http://www.sugon.online/posts/47168/</loc>
-    
-    <lastmod>2020-09-18</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://www.sugon.online/posts/16107/</loc>
-    
-    <lastmod>2020-09-18</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://www.sugon.online/posts/1442/</loc>
     
     <lastmod>2020-09-18</lastmod>
     
@@ -58,9 +23,9 @@
   </url>
   
   <url>
-    <loc>http://www.sugon.online/posts/undefined/</loc>
+    <loc>http://www.sugon.online/posts/38678/</loc>
     
-    <lastmod>2020-09-11</lastmod>
+    <lastmod>2020-09-18</lastmod>
     
   </url>
   
@@ -120,29 +85,15 @@
     
   </url>
   
-  <url>
-    <loc>http://www.sugon.online/%E6%96%B0%E5%BB%BA%E9%A1%B5%E9%9D%A2/index.html</loc>
-    
-    <lastmod>2020-09-01</lastmod>
-    
-  </url>
-  
 
   <url>
     <loc>http://www.sugon.online/</loc>
-    <lastmod>2020-09-18</lastmod>
+    <lastmod>2020-10-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
 
-  
-  <url>
-    <loc>http://www.sugon.online/categories/%E6%8A%80%E6%9C%AF/</loc>
-    <lastmod>2020-09-18</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
   
 </urlset>

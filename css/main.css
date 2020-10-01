@@ -1051,7 +1051,7 @@ pre code {
   display: none;
 }
 .post-body .note {
-  border-radius: 0;
+  border-radius: 3px;
   margin-bottom: 20px;
   padding: 1em;
   position: relative;
@@ -3045,11 +3045,4 @@ mjx-container[display="true"] + br {
   .comments {
     padding: 10px 12px;
   }
-}
-.text-center {
-  text-align: center;
-}
-.site-author-image {
-  background: #fff;
-  background-clip: content-box;
 }

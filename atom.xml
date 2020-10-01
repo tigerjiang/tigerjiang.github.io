@@ -6,7 +6,7 @@
   <link href="http://www.sugon.online/atom.xml" rel="self"/>
   
   <link href="http://www.sugon.online/"/>
-  <updated>2020-09-18T05:37:59.000Z</updated>
+  <updated>2020-10-01T16:33:31.000Z</updated>
   <id>http://www.sugon.online/</id>
   
   <author>
@@ -15,6 +15,21 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>发布自己的开源库到Jcenter</title>
+    <link href="http://www.sugon.online/posts/15484/"/>
+    <id>http://www.sugon.online/posts/15484/</id>
+    <published>2020-10-01T14:59:23.000Z</published>
+    <updated>2020-10-01T16:33:31.000Z</updated>
+    
+    
+    <summary type="html">发布自己的开源代码到jcenter上，让更多的人使用的你的开源代码</summary>
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>常见java面试题(含答案)</title>
@@ -47,90 +62,6 @@
   </entry>
   
   <entry>
-    <title>page</title>
-    <link href="http://www.sugon.online/posts/1442/"/>
-    <id>http://www.sugon.online/posts/1442/</id>
-    <published>2020-09-11T12:16:46.000Z</published>
-    <updated>2020-09-18T05:37:59.000Z</updated>
-    
-    
-    <summary type="html">点击阅读前文前, 首页能看到的文章的简短描述</summary>
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>page</title>
-    <link href="http://www.sugon.online/posts/1441/"/>
-    <id>http://www.sugon.online/posts/1441/</id>
-    <published>2020-09-11T12:15:31.000Z</published>
-    <updated>2020-09-18T05:37:59.000Z</updated>
-    
-    
-    <summary type="html">点击阅读前文前, 首页能看到的文章的简短描述</summary>
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>installation</title>
-    <link href="http://www.sugon.online/posts/undefined/"/>
-    <id>http://www.sugon.online/posts/undefined/</id>
-    <published>2020-09-11T12:09:06.000Z</published>
-    <updated>2020-09-11T12:09:06.000Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">
-</summary>
-        
-      
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>installation</title>
-    <link href="http://www.sugon.online/posts/58699/"/>
-    <id>http://www.sugon.online/posts/58699/</id>
-    <published>2020-09-11T11:56:50.000Z</published>
-    <updated>2020-09-18T05:37:59.000Z</updated>
-    
-    
-    <summary type="html">点击阅读前文前, 首页能看到的文章的简短描述</summary>
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>descripation_test</title>
-    <link href="http://www.sugon.online/posts/35761/"/>
-    <id>http://www.sugon.online/posts/35761/</id>
-    <published>2020-09-10T02:12:40.000Z</published>
-    <updated>2020-09-18T05:37:59.000Z</updated>
-    
-    
-    <summary type="html">这是一篇关于技术博客搭建的文章，技术生涯从此开始</summary>
-    
-    
-    
-    <category term="技术" scheme="http://www.sugon.online/categories/%E6%8A%80%E6%9C%AF/"/>
-    
-    
-  </entry>
-  
-  <entry>
     <title>搭建gitlab服务器</title>
     <link href="http://www.sugon.online/posts/47168/"/>
     <id>http://www.sugon.online/posts/47168/</id>
@@ -144,27 +75,6 @@
         
     <summary type="html">&lt;p&gt;&lt;strong&gt;搭建Git服务器：使用Docker快速搭建Gitlab&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;在前面的章节中，我们学习了大量的 Git 命令使用，考虑到降低 Git 学习成本并没有教大家如何去搭建 Git 服务器，因为搭建 Git</summary>
-        
-      
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="http://www.sugon.online/posts/16107/"/>
-    <id>http://www.sugon.online/posts/16107/</id>
-    <published>2020-08-28T02:13:47.000Z</published>
-    <updated>2020-09-18T05:37:59.000Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
         
       
     
