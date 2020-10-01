@@ -40,7 +40,8 @@
 <ol type="1">
 <li><h3 id="注册账户">注册账户</h3>
 <p>首先要注册 Bintray账户 <a href="https://bintray.com/login/" class="uri">https://bintray.com/login/</a> 点击创建个人账户(Sign Up to an Open Source account)</p>
-<p><img data-src="/Volumes/other/freedom/freedom/source/_posts/发布自己的开源库到Jcenter/image-20201001232427442.png" alt="image-20201001232427442" style="zoom:50%;"></p></li>
+<p><img data-src="/Volumes/other/freedom/freedom/source/_posts/发布自己的开源库到Jcenter/image-20201001232427442.png" alt="image-20201001232427442" style="zoom:50%;"></p>
+<p><img data-src="/Volumes/other/freedom/freedom/source/_posts/发布自己的开源库到Jcenter/image-20201001232427442.png"></p></li>
 </ol>
 <p>​ 注册界面填写个人信息需要注意，邮箱尽量使用gmail的，163邮箱我注册的时候是不识别的</p>
 <p><img data-src="/Volumes/other/freedom/freedom/source/_posts/发布自己的开源库到Jcenter/image-20201001232737646.png" alt="image-20201001232737646" style="zoom:30%;"></p>
