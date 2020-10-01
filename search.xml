@@ -40,19 +40,18 @@
 <ol type="1">
 <li><h3 id="注册账户">注册账户</h3>
 <p>首先要注册 Bintray账户 <a href="https://bintray.com/login/" class="uri">https://bintray.com/login/</a> 点击创建个人账户(Sign Up to an Open Source account)</p>
-<p><img data-src="/Volumes/other/freedom/freedom/source/images/image-20201001232427442.png" alt="image-20201001232427442" style="zoom:50%;"></p>
-<p><img data-src="/Volumes/other/freedom/freedom/source/_posts/发布自己的开源库到Jcenter/image-20201001232427442.png"></p></li>
+<p><img data-src="/Volumes/other/freedom/freedom/source/images/image-20201001232427442.png" alt="image-20201001232427442" style="zoom:50%;"></p></li>
 </ol>
 <p>​ 注册界面填写个人信息需要注意，邮箱尽量使用gmail的，163邮箱我注册的时候是不识别的</p>
-<p><img data-src="/Volumes/other/freedom/freedom/source/_posts/发布自己的开源库到Jcenter/image-20201001232737646.png" alt="image-20201001232737646" style="zoom:30%;"></p>
+<p><img data-src="/Volumes/other/freedom/freedom/source/images/image-20201001232737646.png" alt="image-20201001232737646" style="zoom:30%;"></p>
 <p>注册成功后进入到首页，进行两部操作</p>
 <ol type="1">
 <li><h4 id="创建-utils仓库">创建 utils仓库</h4></li>
 </ol>
-<p><img data-src="/Volumes/other/freedom/freedom/source/_posts/发布自己的开源库到Jcenter/image-20201001234002067.png" alt="image-20201001234002067" style="zoom:33%;"></p>
+<p><img data-src="/Volumes/other/freedom/freedom/source/images/image-20201001234002067.png" alt="image-20201001234002067" style="zoom:33%;"></p>
 <ol start="2" type="1">
 <li><h4 id="获取apikey">获取apikey</h4>
-<img data-src="/Volumes/other/freedom/freedom/source/_posts/发布自己的开源库到Jcenter/image-20201001234320918.png" alt="image-20201001234320918" style="zoom:33%;"></li>
+<img data-src="/Volumes/other/freedom/freedom/source/images/image-20201001234320918.png" alt="image-20201001234320918" style="zoom:33%;"></li>
 </ol>
 <h3 id="配置上传插件">2. 配置上传插件‘</h3>
 <p>上传使用的库 [gradle-bintray-plugin][https://github.com/bintray/gradle-bintray-plugin#readme]</p>
@@ -66,15 +65,15 @@
 <p>在根目录 build.gradle中配置插件</p>
 <figure class="highlight groovy"><table><tr><td class="code"><pre><span class="line">classpath <span class="string">&#x27;com.jfrog.bintray.gradle:gradle-bintray-plugin:1.+&#x27;</span></span><br><span class="line">classpath <span class="string">&#x27;com.github.dcendents:android-maven-gradle-plugin:2.1&#x27;</span></span><br></pre></td></tr></table></figure>
 <p>配置完成之后在上传module中 gradle task中点击bintrayUpload进行上传</p>
-<p><img data-src="/Volumes/other/freedom/freedom/source/_posts/发布自己的开源库到Jcenter/image-20201001234730781.png" alt="image-20201001234730781" style="zoom:50%;"></p>
+<p><img data-src="/Volumes/other/freedom/freedom/source/images/image-20201001234730781.png" alt="image-20201001234730781" style="zoom:50%;"></p>
 <h3 id="链接到jcenter">3. 链接到JCenter</h3>
-<p><img data-src="/Volumes/other/freedom/freedom/source/_posts/发布自己的开源库到Jcenter/image-20201002001109934.png" alt="image-20201002001109934" style="zoom:33%;"></p>
+<p><img data-src="/Volumes/other/freedom/freedom/source/images/image-20201002001109934.png" alt="image-20201002001109934" style="zoom:33%;"></p>
 <p>填写comments 等待回复后才能使用</p>
-<p><img data-src="/Volumes/other/freedom/freedom/source/_posts/发布自己的开源库到Jcenter/image-20201002001209457.png" alt="image-20201002001209457" style="zoom:50%;"></p>
+<p><img data-src="/Volumes/other/freedom/freedom/source/images/image-20201002001209457.png" alt="image-20201002001209457" style="zoom:50%;"></p>
 <h3 id="在项目中引入">4. 在项目中引入</h3>
 <p>发布成功后可以找到对应的导入信息</p>
-<p><img data-src="/Volumes/other/freedom/freedom/source/_posts/发布自己的开源库到Jcenter/image-20201002001530509.png" alt="image-20201002001530509" style="zoom:33%;"></p>
-<p><img data-src="/Volumes/other/freedom/freedom/source/_posts/发布自己的开源库到Jcenter/image-20201002001541653.png" alt="image-20201002001541653" style="zoom:33%;"></p>
+<p><img data-src="/Volumes/other/freedom/freedom/source/images/image-20201002001530509.png" alt="image-20201002001530509" style="zoom:33%;"></p>
+<p><img data-src="/Volumes/other/freedom/freedom/source/images/image-20201002001541653.png" alt="image-20201002001541653" style="zoom:33%;"></p>
 <h3 id="遇到的问题">5. 遇到的问题</h3>
 <p>Javadoc generation failed. Generated Javadoc options file (useful for troubleshooting): ‘路径’</p>
 <ul>
